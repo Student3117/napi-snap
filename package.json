@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "napi-snap7": "^1.2.3",
-    "prebuildify": "^5.0.1"
+    "napi-snap7": "^1.2.3"
   }
 }
